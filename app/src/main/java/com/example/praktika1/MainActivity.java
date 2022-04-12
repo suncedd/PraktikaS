@@ -32,6 +32,6 @@ public class MainActivity extends AppCompatActivity {
             end_x=0;
     }
         return false;
-
+//fdfdsfsd
 }
 }
